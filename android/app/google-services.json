@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "769979195734",
+    "firebase_url": "https://finalyearprojectapiit-default-rtdb.firebaseio.com",
+    "project_id": "finalyearprojectapiit",
+    "storage_bucket": "finalyearprojectapiit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769979195734:android:0ed13eb1a0dc8a545ff6f7",
+        "android_client_info": {
+          "package_name": "com.example.pepperdisesesidentification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_5TrhTTISjDIKhMbyQuc3CZhfNI034EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
